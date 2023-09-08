@@ -1,0 +1,1 @@
+useEffect => in whichever component we use useEffect, it runs the code inside it after the component is rendered
